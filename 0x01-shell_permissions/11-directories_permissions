@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 751 d*/
+chmod 751 d*
